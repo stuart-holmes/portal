@@ -8,7 +8,7 @@
       "subtitle": "Signature needs verification",
 	  "description":"We received your ballot for the election. However, you did not sign the back of your envelope. To count a ballot, state law requires a signature on the return envelope.",
       "actionitems":true,
-	  "actiondescription":"Fill out this form no later than 4 p.m. on November 8, 2023.",
+	  "actiondescription":"Fill out this form nos later than 4 p.m. on November 8, 2023.<br>Download signature verification form",
 	  "returninstruction": "List out the options for sending back the form back. Include mail, email, fax, in-person, and add the digital option to upload the form if eligible.",
 	  "upload":false
     }
