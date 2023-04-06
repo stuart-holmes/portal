@@ -12,6 +12,7 @@
   "mailingaddress": "PO BOX 40229 Olympia, WA 98501",
   "text": "On",
   "notificationtype": "Email, Text",
+  "displayalert": "none",
   "notices": [
     {
       "id":1,
@@ -34,5 +35,11 @@
       "sent": "2023-04-04",
 	  "received": ""
     }
+  ],
+ "votinghistory": [
+    {"election": "GENERAL 2022 (11/8/2022)"},
+	{"election": "PRIMARY 2022 (8/2/2022)"},
+	{"election": "PRIMARY 2021 (8/3/2021)"},
+	{"election": "April Special (4/27/2021)"}
   ]
 }
