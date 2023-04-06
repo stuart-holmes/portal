@@ -12,16 +12,6 @@
   "mailingaddress": "PO BOX 40229 Olympia, WA 98501",
   "text": "On",
   "notificationtype": "Email, Text",
-  "ballotissuances": [
-    {
-      "id":1,
-	  "status": "Sent",
-	  "electiontype": "General Election",
-	  "electiondate": "November 8, 2022",
-      "sent": "2023-04-04",
-	  "received": ""
-    }
-  ],
   "notices": [
     {
       "id":1,
@@ -33,6 +23,16 @@
 	  "actiondescription":"Fill out this form nos later than 4 p.m. on November 8, 2023.<br>Download signature verification form",
 	  "returninstruction": "List out the options for sending back the form back. Include mail, email, fax, in-person, and add the digital option to upload the form if eligible.",
 	  "upload":false
+    }
+  ],
+ "ballotissuances": [
+    {
+      "id":1,
+	  "status": "Sent",
+	  "electiontype": "General Election",
+	  "electiondate": "November 8, 2022",
+      "sent": "2023-04-04",
+	  "received": ""
     }
   ]
 }
