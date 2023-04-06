@@ -1,5 +1,27 @@
 {
   "name": "Joe Voter",
+  "status": "Active",
+  "regdate": "03/13/1988",
+  "county": "Thurston",
+  "precinct": "SEA 12-3456 (1234.567)",
+  "countyname": "King County Elections",
+  "countyphone": "206-296-8683",
+  "countyemail": "elections@kingcounty.gov",
+  "countyweb": "kingcounty.gov/elections",
+  "address": "416 Sid Snyder Ave SW Olympia, WA 98501",
+  "mailingaddress": "PO BOX 40229 Olympia, WA 98501",
+  "text": "On",
+  "notificationtype": "Email, Text",
+  "ballotissuances": [
+    {
+      "id":1,
+	  "status": "Sent",
+	  "electiontype": "General Election",
+	  "electiondate": "November 8, 2022",
+      "sent": "2023-04-04",
+	  "received": ""
+    }
+  ]
   "notices": [
     {
       "id":1,
