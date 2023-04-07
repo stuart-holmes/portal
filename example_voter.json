@@ -34,6 +34,14 @@
 	  "electiondate": "November 8, 2022",
       "sent": "2023-04-04",
 	  "received": ""
+    },
+    {
+      "id":2,
+	  "status": "Rejected",
+	  "electiontype": "Primary",
+	  "electiondate": "August 1, 2023",
+      "sent": "2023-07-04",
+	  "received": "2023-07-10"
     }
   ],
  "votinghistory": [
