@@ -12,7 +12,8 @@
   "mailingaddress": "PO BOX 40229 Olympia, WA 98501",
   "text": "On",
   "notificationtype": "Email, Text",
-  "displayalert": "none",
+  "noballots": true,
+  "noballotmessage":"Check back on [ELECTION DAY MINUS 45] for an update on the [ELECTION]. View election calendar for upcoming elections.",  
   "notices": [
     {
       "id":1,
@@ -30,6 +31,7 @@
     {
       "id":1,
 	  "status": "Sent",
+	  "description":"",
 	  "electiontype": "General Election",
 	  "electiondate": "November 8, 2022",
       "sent": "2023-04-04",
