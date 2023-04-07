@@ -12,7 +12,7 @@
   "mailingaddress": "PO BOX 40229 Olympia, WA 98501",
   "text": "On",
   "notificationtype": "Email, Text",
-  "displayalert": "block",
+  "displayalert": "none",
   "notices": [
     {
       "id":1,
