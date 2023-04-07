@@ -3,7 +3,6 @@
   "YBVM": "Your Ballot & Voting Materials",
   "Voter_Portal_for":"Voter Portal for",
   "Registered_at":"Registered at",
-  "notballots":"Check back on [DATE] for an update on the [ELECTION].",
   "your_ballot_status_for":"Your ballot status for the",
   "Ballots_be_sent_by":"Ballots will be sent by",
   "view_voter_guide_message":"We are prepping your ballot for the upcoming General Election on November 8th. View the Voter Guide to learn more about what candidates and measures are on your ballot.",
@@ -16,5 +15,13 @@
   "calendar":"Elections Calendar",
   "calendar_desc":"See the timeline and important dates for this and upcoming elections.",
   "elected":"Elected Officials",
-  "elected_desc":"See who represents you."
+  "elected_desc":"See who represents you.",
+  "ballot_queued_title":"We are prepping your ballot for the upcoming [type of election] on [election date]. View the Voter Guide to learn more about what candidates and measures are on your ballot.",  
+  "ballot_queued":"We are prepping your ballot for the upcoming [type of election] on [election date]. View the Voter Guide to learn more about what candidates and measures are on your ballot.",
+  "ballot_sent":"Once you get your ballot and fill it in, mail it back or drop it in a ballot drop box. Ballots must be postmarked by [election date] or dropped in a ballot drop box by 8 PM on [election date].",
+  "ballot_recieved":"[County] Election Office received your ballot and your ballot is now pending signature verification.",
+  "ballot_onhold":"The ballot we received may have been a previously issued ballot that has been suspended. Contact [County] Elections Office for more information.",
+  "ballot_review":"Your ballot was received and is going through the signature review process.",
+  "ballot_rejected":"Read the full notice and respond.",
+  "ballot_accepted":"Congratulations! Your ballot has been accepted and added to tabulation for the [insert election and year]."  
 }
